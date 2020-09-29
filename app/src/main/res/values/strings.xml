@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android1d</string>
+    <string name="login">LOGIN</string>
+    <string name="name">Name</string>
+    <string name="when_you_agree_to_terms_and_conditions">When you agree to terms and conditions</string>
+    <string name="for_got_your_password">For got your password?</string>
+    <string name="or_login_with">Or login with</string>
+    <string name="password">Password</string>
+</resources>
